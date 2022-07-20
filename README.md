@@ -5,7 +5,6 @@ I’m a web designer & web developer focused on crafting clean & user-friendly e
 
 Skills: HTML5 / CSS, JavaScript (ES6) / Bootstrap / Tailwind / ReactJS / Daisy UI / Node JS / ExpressJS / MongoDB / Rest API / Firebase Authentication / Firebase Hooks / Figma / Git,GitHub / VS Code / Sublime Text / Chrome dev tools /  Netlify / Heroku.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Mongoose 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: afsanamimi.wd@gmail.com 
