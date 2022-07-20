@@ -1,5 +1,4 @@
 
-![GitHub](https://i.ibb.co/VvDyby6/IMG-20220702-193420-removebg-preview.png)
 ### Hi there 👋, I am Afsana Mimi
 #### GitHub
 I’m a web designer & web developer focused on crafting clean & user-friendly experiences based on Malaysia. I am passionate about building excellent website for all of my clients.
