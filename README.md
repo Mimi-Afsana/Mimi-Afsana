@@ -3,7 +3,7 @@
 #### GitHub
 I’m a web designer & web developer focused on crafting clean & user-friendly experiences based on Malaysia. I am passionate about building excellent website for all of my clients.
 
-Skills: HTML5 / CSS, JavaScript (ES6) / Bootstrap / Tailwind / ReactJS / Daisy UI / Node JS / ExpressJS / MongoDB / Rest API / Firebase Authentication / Firebase Hooks / Figma / Git,GitHub / VS Code / Sublime Text / Chrome dev tools /  Netlify / Heroku.
+Skills: HTML5 / CSS, JavaScript (ES6) / Bootstrap / Tailwind / ReactJS / Daisy UI / Node JS / ExpressJS / MongoDB / Rest API / Firebase Authentication / Firebase Hooks / Figma / Git,GitHub / VS Code / Sublime Text / Chrome dev tools / Netlify / Heroku.
 
 - 🌱 I’m currently learning Mongoose 
 - 👯 I’m looking to collaborate on GitHub 
